@@ -1,4 +1,4 @@
-package com.herobin.spark
+package com.herobin.spark.test
 
 object Test {
 
